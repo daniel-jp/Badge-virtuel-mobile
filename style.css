@@ -9,6 +9,7 @@ body {
     height: 100%;
     font-family: 'roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
+    background: var(--black);
 }
 
 body {
@@ -20,6 +21,7 @@ main {
     background: url("images/background.png");
     width: 375px;
     height: 812px;
+    border: 1px solid #232;
 }
 
 .container {
