@@ -1,10 +1,10 @@
 const linksSocialMedia = {
   github: 'Daniel-jp',
-  youtube: 'UCWpSVjfuqZhQZ5gfyFg56jw',
+  youtube: 'channel/UCWpSVjfuqZhQZ5gfyFg56jw',
   facebook: 'danieljoaquimpaulino.danny',
-  instagram: 'danny_arm_amy',
+  instagram: 'daniel_j_paulino',
   twitter: 'Daniel28725148',
-  linkedin: 'daniel-joaquim-paulino-737808198'
+  linkedin: 'in/daniel-joaquim-paulino-737808198'
 }
 
 function changeSocialMidiaLinks() {
